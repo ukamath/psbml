@@ -1,0 +1,11 @@
+com.ontolabs.ayllu
+com.ontolabs.ayllu.algorithm.bigdata
+com.ontolabs.ayllu.algorithm.bigdata.classification.local
+com.ontolabs.ayllu.classifier
+com.ontolabs.ayllu.data
+com.ontolabs.ayllu.grid
+com.ontolabs.ayllu.grid.classifier
+com.ontolabs.ayllu.storage
+com.ontolabs.ayllu.util
+com.ontolabs.ayllu.vendor
+com.ontolabs.ayllu.vendor.weka
