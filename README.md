@@ -22,14 +22,16 @@ What is the Idea behind PSBML?
 
 In very simple terms: it is **Divide, Collaborate and Conquer**!
 
- - Use existing unmodified machine learning algorithms from Open Sources or Closed Sources
- - Converts any Machine Learning library to Parallel library
- - Parallelize Machine learning 
- - Scale up (concurrency) and scale out (remoting) to handle dataset size 
+ - Use existing unmodified machine learning algorithms from Open Sources or Closed Sources by simple wrapper
+ - Converts any Machine Learning library to Parallel Machine Learning library
+ - Parallelizes any Classification, Regression, Clustering (Density, Distance and Probability based).
+ - Scale up (concurrency) and scale out (distributed computing) to handle dataset size 
 
 What does PSBML support?
 -----------------------
 Supervised Learning (Classification and Regression), Unsupervised Learning (Clustering) as framework across any open sources. Implementations for well-known open sources such as WEKA, JSAT and RapidMiner are implemented.
+
+Plans to extend to SMILE, Spark and H20 are in progress.
 
 
 How to Run PSBML ?
