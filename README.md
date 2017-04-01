@@ -11,9 +11,9 @@ International Conference on Parallel Problem Solving from Nature, 206-215*
 Uday Kamath then extended the algorithm from theoretical, implementation and empirical analysis in collaboration with Machine Learning expert Carlotta Domeniconi and Kenneth De Jong and SMILE group collaborator Y. Ren.
 Some of the papers are 
 
- 1. U. Kamath, C. Domeniconi, and K. De Jong, An analysis of a spatial EA parallel Boosting algorithm, GECCO 2013.
- 2. U. Kamath, C. Domeniconi, and K. De Jong, Theoretical and Empirical Analysis of a Spatial EA Parallel Boosting Algorithm, Evolutionary Computation Journal, 2017.
- 3. Y. Ren, U. Kamath, C. Domeniconi, and G. Zhang, Boosted Mean Shift Clustering, ECML PKDD 2014
+ 1. [U. Kamath, C. Domeniconi, and K. De Jong, An Analysis of a Spatial EA Parallel Boosting Algorithm, GECCO 2013.](https://cs.gmu.edu/~carlotta/publications/GBML-analysis-GECCO.pdf)
+ 2. [U. Kamath, C. Domeniconi, and K. De Jong, Theoretical and Empirical Analysis of a Spatial EA Parallel Boosting Algorithm, Evolutionary Computation Journal, 2017.](https://arxiv.org/pdf/1508.01549.pdf)
+ 3. [Y. Ren, U. Kamath, C. Domeniconi, and G. Zhang, Boosted Mean Shift Clustering, ECML PKDD 2014](https://cs.gmu.edu/~carlotta/publications/BMSC.pdf)
  4. Y. Ren, U. Kamath, and C. Domeniconi, Parallel Boosted Clustering (under submission)
 
 
